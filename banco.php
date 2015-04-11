@@ -7,7 +7,7 @@ $database = "sistema_academico";
 	
 function conectaBancoSelect ()
 {
-	//teste	
+
 
     global $host, $bd, $senhabd, $database;
 	
