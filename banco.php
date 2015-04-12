@@ -9,6 +9,7 @@ function conectaBancoSelect ()
 {
 
 
+
     global $host, $bd, $senhabd, $database;
 	
 	$conexao = mysql_connect($host,$bd, $senhabd);
